@@ -1,0 +1,3 @@
+FIREHOSE_DELIVERY_STREAM: uoc-input-bucket
+SOPHOS_API_KEY_NAME: sophos-api-key
+SOPHOS_BASIC_AUTH_STRING_NAME: sophos-basic-auth-string
